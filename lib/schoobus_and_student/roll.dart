@@ -1,0 +1,2 @@
+enum Roll{high,middle}
+
