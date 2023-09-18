@@ -1,4 +1,6 @@
-import 'package:flutter_v1/constructor/encapsulation/employee.dart';
+
+
+import 'package:flutter_v1/encapsulation/employee.dart';
 
 void main(){
   Employye employye1 = Employye();
